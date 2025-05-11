@@ -2,7 +2,7 @@
 
 ## Descripción
 
-MyMCP es una aplicación .NET que utiliza el protocolo Model Context Protocol (MCP) para proporcionar herramientas que pueden ser invocadas desde un cliente. Actualmente, incluye herramientas como `Echo` y `ReverseEcho` para procesar mensajes.
+MyMCP es una aplicación .NET que utiliza el protocolo Model Context Protocol (MCP) (SDK oficial C# https://github.com/modelcontextprotocol/csharp-sdk) para proporcionar herramientas que pueden ser invocadas desde un cliente. Actualmente, incluye herramientas como `Echo` y `ReverseEcho` para procesar mensajes.
 
 ## Características
 
